@@ -1,12 +1,12 @@
 {
-  "name": "dot-path",
+  "name": "dot-accessor",
   "version": "0.0.1",
   "description": "using dot path to access nested properties",
   "main": "main.js",
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/exoticknight/dot-path.git"
+    "url": "https://github.com/exoticknight/dot-accessor.git"
   },
   "author": {
     "email": "draco.knight0@gmail.com",
