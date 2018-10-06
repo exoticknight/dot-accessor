@@ -2,7 +2,7 @@
   "name": "dot-path",
   "version": "0.0.1",
   "description": "using dot path to access nested properties",
-  "main": "./dist/index.js",
+  "main": "main.js",
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
@@ -29,7 +29,8 @@
   "files": [
     "dist",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "main.js"
   ],
   "dependencies": {},
   "devDependencies": {
